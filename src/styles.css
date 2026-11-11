@@ -1,0 +1,6 @@
+app-header,
+app-sidebar,
+app-footer,
+app-chat {
+  display: contents;
+}
